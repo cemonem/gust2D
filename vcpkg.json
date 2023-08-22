@@ -1,0 +1,4 @@
+{
+  "name" : "gust",
+  "dependencies" : ["gtest", "sfml", "tinyxml2"]
+}

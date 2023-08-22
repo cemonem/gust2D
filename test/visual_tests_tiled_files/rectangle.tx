@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object type="rectangle" width="50" height="50">
+  <properties>
+   <property name="rigidbody" type="class" propertytype="rigidbody">
+    <properties>
+     <property name="angularDamping" type="float" value="0.10000000000000009"/>
+     <property name="angularVelocity" type="float" value="0"/>
+     <property name="inertia" type="float" value="1"/>
+     <property name="inertiaInfinite" type="bool" value="false"/>
+     <property name="linearDamping" type="float" value="0.10000000000000009"/>
+     <property name="mass" type="float" value="1"/>
+     <property name="massInfinite" type="bool" value="false"/>
+     <property name="velocity_x" type="float" value="0"/>
+     <property name="velocity_y" type="float" value="0"/>
+    </properties>
+   </property>
+  </properties>
+ </object>
+</template>

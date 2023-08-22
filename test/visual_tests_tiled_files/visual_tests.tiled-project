@@ -1,0 +1,76 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "propertyTypes": [
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 1,
+            "members": [
+                {
+                    "name": "angularDamping",
+                    "type": "float",
+                    "value": 0.1
+                },
+                {
+                    "name": "angularVelocity",
+                    "type": "float",
+                    "value": 0
+                },
+                {
+                    "name": "inertia",
+                    "type": "float",
+                    "value": 1
+                },
+                {
+                    "name": "inertiaInfinite",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "linearDamping",
+                    "type": "float",
+                    "value": 0.1
+                },
+                {
+                    "name": "mass",
+                    "type": "float",
+                    "value": 1
+                },
+                {
+                    "name": "massInfinite",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "velocity_x",
+                    "type": "float",
+                    "value": 0
+                },
+                {
+                    "name": "velocity_y",
+                    "type": "float",
+                    "value": 0
+                }
+            ],
+            "name": "rigidbody",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset"
+            ]
+        }
+    ]
+}

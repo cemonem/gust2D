@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="50" tileheight="50" infinite="1" nextlayerid="3" nextobjectid="32">
+ <objectgroup id="2" name="object_layer">
+  <object id="25" type="circle" x="77" y="-227.333" width="50" height="50">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="0.1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="2"/>
+      <property name="velocity_y" type="float" value="0.5"/>
+     </properties>
+    </property>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="26" type="rectangle" x="437.333" y="-149" width="50" height="50">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="0.1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="0"/>
+      <property name="velocity_y" type="float" value="1"/>
+     </properties>
+    </property>
+   </properties>
+  </object>
+  <object id="27" type="rectangle" x="619.666" y="-332.667" width="223.249" height="75.494" rotation="41.2991">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="-5"/>
+      <property name="velocity_y" type="float" value="0"/>
+     </properties>
+    </property>
+   </properties>
+  </object>
+  <object id="28" type="circle" x="61.075" y="-423.744" width="105" height="105" rotation="45.4438">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="0.1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="2"/>
+      <property name="velocity_y" type="float" value="0"/>
+     </properties>
+    </property>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="29" type="rectangle" x="593.143" y="-435.444" width="36" height="121" rotation="52.2417">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="0.1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="-1"/>
+      <property name="velocity_y" type="float" value="-1"/>
+     </properties>
+    </property>
+   </properties>
+  </object>
+  <object id="30" type="rectangle" x="320.407" y="-332.067" width="136.087" height="80.8787" rotation="25.8581">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="0.1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="0"/>
+      <property name="velocity_y" type="float" value="1"/>
+     </properties>
+    </property>
+   </properties>
+  </object>
+  <object id="31" type="circle" x="484.333" y="-257" width="80.6667" height="80.6667">
+   <properties>
+    <property name="rigidbody" type="class" propertytype="rigidbody">
+     <properties>
+      <property name="angularDamping" type="float" value="0.10000000000000009"/>
+      <property name="angularVelocity" type="float" value="0"/>
+      <property name="inertia" type="float" value="0.1"/>
+      <property name="inertiaInfinite" type="bool" value="false"/>
+      <property name="linearDamping" type="float" value="0.10000000000000009"/>
+      <property name="mass" type="float" value="1"/>
+      <property name="massInfinite" type="bool" value="false"/>
+      <property name="velocity_x" type="float" value="-2"/>
+      <property name="velocity_y" type="float" value="0.5"/>
+     </properties>
+    </property>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
